@@ -1,0 +1,9 @@
+name: cashflow model tests
+
+on:
+    pull_request:
+        branches:
+            - main
+            
+jobs:
+    
