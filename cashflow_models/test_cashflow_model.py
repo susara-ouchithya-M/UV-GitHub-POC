@@ -1,5 +1,5 @@
 import unittest
-# from cashflow_models.cashflow_model import calculate_cashflow
+from cashflow_model import calculate_cashflow
 
 class TestCashflowModel(unittest.TestCase):
     def test_calculate_cashflow(self):
