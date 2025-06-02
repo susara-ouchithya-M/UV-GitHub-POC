@@ -1,0 +1,17 @@
+
+### Instructions to Push a New Branch to GitHub
+
+1. Fetch the latest changes from the remote repository:
+   git fetch origin
+
+2. Create a new branch:
+   git checkout -b new-branch-name
+
+3. Stage your changes:
+   git add .
+
+4. Commit your changes:
+   git commit -m "Your commit message"
+
+5. Push the new branch to GitHub:
+   git push origin new-branch-name
