@@ -1,6 +1,7 @@
 import unittest
 from cashflow_model import calculate_cashflow
 
+# Test cash flows
 class TestCashflowModel(unittest.TestCase):
     def test_calculate_cashflow(self):
         initial_investment = 1000
