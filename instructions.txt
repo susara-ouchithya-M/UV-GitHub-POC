@@ -1,5 +1,5 @@
 
-### Instructions to Push a New Branch to GitHub
+# Instructions to Push a New Branch to GitHub
 
 1. Fetch the latest changes from the remote repository:
    git fetch origin
