@@ -1,6 +1,7 @@
 import numpy as np
 import pandas as pd
 
+# Cash flows 
 def calculate_cashflow(initial_investment, cashflows, discount_rate):
     net_present_value = -initial_investment
     for t, cashflow in enumerate(cashflows, start=1):
